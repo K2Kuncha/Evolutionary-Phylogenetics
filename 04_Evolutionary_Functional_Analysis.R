@@ -9,8 +9,8 @@
 #              transcription, methylation, RNA processing).
 # 
 # REAL WORLD APPLICATION:
-# Formally documenting why certain proteins group together. As noted in the 
-# this research, Human-Arabidopsis MAPK1 pairing suggests an ancient, 
+# Formally documenting why certain proteins group together. 
+# As shown in this section, Human-Arabidopsis MAPK1 pairing suggests an ancient, 
 # highly conserved functional core domain despite vast species divergence.
 # =========================================================================
 
