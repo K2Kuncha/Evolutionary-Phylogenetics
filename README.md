@@ -19,3 +19,5 @@ To construct Unweighted Pair Group Method with Arithmetic Mean (UPGMA) phylogene
 2. **Distance Matrix Computation:** Calculating pairwise evolutionary distances based on amino acid substitution models to quantify species divergence.
 3. **UPGMA Tree Construction:** Building hierarchical clustering models (UPGMA) and exporting high-resolution phylogenetic trees.
 4. **Evolutionary Functional Analysis:** Interpreting branch lengths and clustering topography to map functional conservation (e.g., investigating why human and *Arabidopsis* MAPK1 sequences cluster tightly despite massive evolutionary distance).
+
+We all are built the same!
