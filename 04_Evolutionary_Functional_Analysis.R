@@ -2,15 +2,15 @@
 # MODULE 4: Evolutionary Functional Analysis (Annotation)
 # AUTHOR: Kuncha Shashidhar
 # 
-# 🧬 ABOUT THE DATA:
+# ABOUT THE DATA:
 # Format: Clustered phylogenetic data cross-referenced with functional databases.
 # Description: A tree is just a diagram until interpreted. This module links 
 #              the clustered clades to their biological functions (e.g., 
 #              transcription, methylation, RNA processing).
 # 
-# 🔍 REAL WORLD APPLICATION:
+# REAL WORLD APPLICATION:
 # Formally documenting why certain proteins group together. As noted in the 
-# author's research, Human-Arabidopsis MAPK1 pairing suggests an ancient, 
+# this research, Human-Arabidopsis MAPK1 pairing suggests an ancient, 
 # highly conserved functional core domain despite vast species divergence.
 # =========================================================================
 
@@ -18,7 +18,7 @@ library(dplyr)
 
 cat("\n--- Interpreting Phylogenetic Clusters ---\n")
 
-# Integrating functional annotations with our cluster assignments (Reflecting Final_15 data)
+# Integrating functional annotations with our cluster assignments
 cluster_analysis <- data.frame(
   UniProt_ID = c("Q92600", "Q9P013", "Q9Y221"),
   Gene_Symbol = c("CNOT9", "CWC15", "NIP7"),
